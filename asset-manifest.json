@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fromscrtch.github.io/project-weasel/static/css/main.9f088a99.css",
+    "main.js": "/fromscrtch.github.io/project-weasel/static/js/main.d3e60acc.js",
+    "static/js/787.ff1f16b2.chunk.js": "/fromscrtch.github.io/project-weasel/static/js/787.ff1f16b2.chunk.js",
+    "index.html": "/fromscrtch.github.io/project-weasel/index.html",
+    "main.9f088a99.css.map": "/fromscrtch.github.io/project-weasel/static/css/main.9f088a99.css.map",
+    "main.d3e60acc.js.map": "/fromscrtch.github.io/project-weasel/static/js/main.d3e60acc.js.map",
+    "787.ff1f16b2.chunk.js.map": "/fromscrtch.github.io/project-weasel/static/js/787.ff1f16b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.d3e60acc.js"
+  ]
+}
