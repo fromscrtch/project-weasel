@@ -1,7 +1,5 @@
 import React from "react";
 
-function App() {
+export default function Navigation() {
   return;
 }
-
-export default App;
